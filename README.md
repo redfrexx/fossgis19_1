@@ -32,9 +32,10 @@ Windows does not automatically come with a git installation. Therefore, download
 
 ### OSGeo Programs
 
+Download the QGIS All-IN-One Installer from the [QGIS webpage](https://www.qgis.org/en/site/forusers/download.html). This installer contains all necessary packages. 
 
-### 
-git is installed by default
+### git
+git is installed by default.
 
 
 
